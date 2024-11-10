@@ -16,7 +16,6 @@ const App = () => {
       <Portfolio/>
       <Contact/>
       <div className="container">
-        
         <Footer/>
       </div>
 
